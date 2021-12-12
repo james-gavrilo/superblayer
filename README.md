@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Praise&color=%2336BCF7&size=50&height=80&lines=Senior+Blockchain+Developer;Web+%26+Mobile+master;Front-End+Pod+Lead;Core+Backend+Engineer;11%2B+year+coding+experience;Always+learning+new+tech)](https://git.io/typing-svg)
 <br />
 
-<h1 align="center"><img align="center" src="https://github.com/BestSilverTiger/BestSilverTiger/blob/main/src/superb.gif?raw=true" style = "width: -webkit-fill-available;"/></h1>
+<h1 align="center"><img align="center" src="https://github.com/superblayer/superblayer/blob/main/src/superb.gif?raw=true" style = "width: -webkit-fill-available;"/></h1>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
